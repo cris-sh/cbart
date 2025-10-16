@@ -40339,8 +40339,8 @@ $1(a){var s,r=null,q=A.Y4(B.f_,1),p=A.fK(12),o=t.sq,n=A.c([new A.dh(0,B.cY,B.f5,
 n=A.Y4(B.f_,1)
 p=A.fK(12)
 o=A.c([new A.dh(0,B.cY,B.f5,B.tE,5)],o)
-s=A.fM(r,A.j_(A.c([A.fM(r,B.S_,B.w,r,r,new A.dg(r,r,A.Y4(B.I,1),A.fK(4),r,r,B.aG),r,r,r,r,B.mv,r,r,r),B.hy,A.dF("Ficha: 2996494 ANALISIS Y DESARROLLO DE SOFTWARE Tarde",r,r,r,B.kF,r,r),B.yj,A.dF("Fecha inicial: 2024-07-08",r,r,r,B.kF,r,r),B.yi,A.dF("Fecha Finalizaci\xf3n: 2026-04-07",r,r,r,B.kF,r,r)],m),B.d2,B.aR,B.bR),B.w,r,r,new A.dg(B.k,r,n,p,o,r,B.aG),r,r,r,r,B.DP,r,r,300)
-return A.LQ(A.Xk(!0,r,r,r,B.RZ),A.jT(new A.wc(k,s,320,420,r),r,r))},
+s=A.fM(r,A.j_(A.c([A.fM(r,B.S0,B.w,r,r,new A.dg(r,r,A.Y4(B.I,1),A.fK(4),r,r,B.aG),r,r,r,r,B.mv,r,r,r),B.hy,A.dF("Ficha: 2996494 ANALISIS Y DESARROLLO DE SOFTWARE Tarde",r,r,r,B.kF,r,r),B.yj,A.dF("Fecha inicial: 2024-07-08",r,r,r,B.kF,r,r),B.yi,A.dF("Fecha Finalizaci\xf3n: 2026-04-07",r,r,r,B.kF,r,r)],m),B.d2,B.aR,B.bR),B.w,r,r,new A.dg(B.k,r,n,p,o,r,B.aG),r,r,r,r,B.DP,r,r,300)
+return A.LQ(A.Xk(!0,r,r,r,B.S_),A.jT(new A.wc(k,s,320,420,r),r,r))},
 $S:200}
 A.oi.prototype={
 ai(){return new A.CR()}}
@@ -40433,14 +40433,14 @@ if(p)l.push(o.vH(B.n4,new A.ake(),"Usuarios"))
 o=A.Xk(!1,B.fS,j,j,A.dF("Bienvenido, "+s+"!",j,j,j,j,j,j))
 n=A.as([null,0],t.LO,t.S)
 k=l.length
-return A.LQ(o,new A.cT(B.e_,A.j_(A.c([A.arQ(new A.J2(new A.adX(2,10,10,1),new A.adT(!0,!0,!0,l,n),j,B.ax,!1,j,j,B.zy,!1,j,k,B.ag,j,j,B.V,B.ap,j),1),B.hz,A.aGp(B.Ew,B.S0,new A.akf(i),A.aGq(j,j,B.tu,j,j,j,j,j,j,j,j,B.Ns,B.DV,j,j,j,j,j,B.yQ,j))],m),B.aH,B.aR,B.cH),j))},
+return A.LQ(o,new A.cT(B.e_,A.j_(A.c([A.arQ(new A.J2(new A.adX(2,10,10,1),new A.adT(!0,!0,!0,l,n),j,B.ax,!1,j,j,B.zy,!1,j,k,B.ag,j,j,B.V,B.ap,j),1),B.hz,A.aGp(B.Ew,B.S1,new A.akf(i),A.aGq(j,j,B.tu,j,j,j,j,j,j,j,j,B.Ns,B.DV,j,j,j,j,j,B.yQ,j))],m),B.aH,B.aR,B.cH),j))},
 $S:113}
 A.akc.prototype={
 $0(){A.aBf(new A.akb(),this.a,!0,t.z)},
 $S:0}
 A.akb.prototype={
 $1(a){var s=null
-return A.LQ(A.Xk(!0,s,s,s,B.S1),A.jT(new A.cT(B.e_,A.j_(A.c([B.Br,B.Nx,B.RY,B.Ny,B.S2],t.E),B.aH,B.aR,B.bR),s),s,s))},
+return A.LQ(A.Xk(!0,s,s,s,B.S2),A.jT(new A.cT(B.e_,A.j_(A.c([B.Br,B.Nx,B.RZ,B.Ny,B.RY],t.E),B.aH,B.aR,B.bR),s),s,s))},
 $S:200}
 A.akd.prototype={
 $0(){A.aB1(this.a,this.c,this.b,"A+")},
@@ -86319,7 +86319,7 @@ B.zA=new A.Xw(!1,127)
 B.zB=new A.Xx(127)
 B.i7=new A.vW(0,"polite")
 B.i8=new A.vW(1,"assertive")
-B.zC=new A.qA("assets/logo_sena.png",null,null)
+B.zC=new A.qA("assets/cris_pic.jpg",null,null)
 B.fG=s([],t.s)
 B.j=new A.AW(1,"downstream")
 B.kD=new A.f8(-1,-1,B.j,!1,-1,-1)
@@ -88962,15 +88962,15 @@ B.QX=new A.r(!0,B.I,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.Rc=new A.r(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.OL=new A.r(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.RX=new A.er(B.Q9,B.Pl,B.Qa,B.QC,B.P2,B.P9,B.PD,B.Qu,B.PN,B.R0,B.OC,B.OS,B.QX,B.Rc,B.OL)
+B.RY=new A.eL("Aprendiz y desarrollador de esta aplicaci\xf3n.\nContacto: contact@enux.dev",null,null,B.eC,null,null,null,null,null)
 B.Rf=new A.r(!0,null,null,null,null,null,20,B.cx,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RY=new A.eL("Cristian Duarte",null,B.Rf,null,null,null,null,null,null)
-B.RZ=new A.eL("Carnet",null,null,null,null,null,null,null,null)
+B.RZ=new A.eL("Cristian Duarte",null,B.Rf,null,null,null,null,null,null)
+B.S_=new A.eL("Carnet",null,null,null,null,null,null,null,null)
 B.Qn=new A.r(!0,null,null,null,null,null,12,null,null,null,null,null,1.25,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.S_=new A.eL("Este carn\xe9 es personal e instransferible; identifica al portador Aprediz del Servicio Nacional de Aprendizaje SENA.\nEl SENA es una entidad que imparte una formaci\xf3n t\xe9cnica profesional y tecnol\xf3gica que forma parte de la educaci\xf3n superior; se solicita a las autoridades p\xfablicas, civiles y militares prestarle al portador toda la colaboraci\xf3n para la realizaci\xf3n de las actividades de su aprendizaje.\nPor disposici\xf3n de las Leyes 418 de 1997, 548 de 1999, 642 de 2001 y 110 de 2006, los estudiantes de educaci\xf3n superior no ser\xe1n incorporados en la presentaci\xf3n del servicio militar.\n\nFIRMA AUTORIZADA\nJavier Ricardo Jimenez",null,B.Qn,null,null,null,null,null,null)
+B.S0=new A.eL("Este carn\xe9 es personal e instransferible; identifica al portador Aprediz del Servicio Nacional de Aprendizaje SENA.\nEl SENA es una entidad que imparte una formaci\xf3n t\xe9cnica profesional y tecnol\xf3gica que forma parte de la educaci\xf3n superior; se solicita a las autoridades p\xfablicas, civiles y militares prestarle al portador toda la colaboraci\xf3n para la realizaci\xf3n de las actividades de su aprendizaje.\nPor disposici\xf3n de las Leyes 418 de 1997, 548 de 1999, 642 de 2001 y 110 de 2006, los estudiantes de educaci\xf3n superior no ser\xe1n incorporados en la presentaci\xf3n del servicio militar.\n\nFIRMA AUTORIZADA\nJavier Ricardo Jimenez",null,B.Qn,null,null,null,null,null,null)
 B.Pt=new A.r(!0,B.k,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.S0=new A.eL("Cerrar Sesi\xf3n",null,B.Pt,null,null,null,null,null,null)
-B.S1=new A.eL("Desarrollador",null,null,null,null,null,null,null,null)
-B.S2=new A.eL("Aprendiz y desarrollador de esta aplicaci\xf3n.\nContacto: cris@example.com",null,null,B.eC,null,null,null,null,null)
+B.S1=new A.eL("Cerrar Sesi\xf3n",null,B.Pt,null,null,null,null,null,null)
+B.S2=new A.eL("Desarrollador",null,null,null,null,null,null,null,null)
 B.S4=new A.eL("Ingresar",null,null,null,null,null,null,null,null)
 B.S5=new A.eL("Inicio de Sesi\xf3n (GetX)",null,null,null,null,null,null,null,null)
 B.yR=new A.No(0,"system")
